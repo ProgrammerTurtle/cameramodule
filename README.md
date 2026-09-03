@@ -1,6 +1,6 @@
 # cameramodule
 
-Open Source self contained camera module for  high performance 3" amateur rockets - specifically amateur spaceshot second stages. 
+Open Source self contained camera module for high performance 3" amateur rockets. 
 
 Integrating a COTS camera, the Runcam Split 4 V2, with a custom designed LORAWAN enabled control PCB and custom machined mounting/camera shrouding
 
